@@ -3,7 +3,6 @@
   <title>Oh geez... What reality am I in?</title>
 </head>
 
-<!-- TODO: Remember to upgrade Azure subscription before trial ends. [redacted]. -->
   
 <body>
 <h1> Server Information</h1>
